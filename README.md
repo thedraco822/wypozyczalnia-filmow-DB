@@ -53,5 +53,5 @@ WHERE kp.status = 'aktywna';
 ### Uwagi
 - Plik BAZA_WYP.sql zawiera przykładowe dane, takie jak filmy (np. "Inception", "The Godfather") i klienci.
 - Upewnij się, że serwer bazy danych obsługuje składnię Oracle SQL.
-- W przypadku błędów związanych z kluczami obcymi, upewnij się, że tabele są tworzone w odpowiedniej kolejności.
-[BAZA_WYP.pdf](https://github.com/user-attachments/files/21164420/BAZA_WYP.pdf)
+<img width="997" height="512" alt="Screenshot 2025-07-10 154826" src="https://github.com/user-attachments/assets/a57e35f9-9b6b-4809-942d-d25a536f27c6" />
+<img width="997" height="512" alt="2" src="https://github.com/user-attachments/assets/5f1c78cb-024b-48e2-906b-8ff112c4fa72" />
